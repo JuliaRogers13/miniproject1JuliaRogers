@@ -16,7 +16,6 @@ By signing this statement, I acknowledge my commitment to upholding the
 principles of academic integrity.
 '''
 
-import pprint
 import yfinance as yf
 import numpy as np
 import matplotlib.pyplot as plt
@@ -26,7 +25,6 @@ import os
 os.makedirs("charts", exist_ok=True)
 
 mytickers = ["MSFT", "AAPL", "NVDA", "GME", "AMC"]
-
 
 mytickers.sort()
 for ticker in mytickers:
