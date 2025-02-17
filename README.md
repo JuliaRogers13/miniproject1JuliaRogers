@@ -29,7 +29,7 @@ This should create 5 graphs in charts/ for each of the five stocks.
 
 ## Authors
 
-ex. Julia Rogers
+Julia Rogers
 
 ## Acknowledgments
 
